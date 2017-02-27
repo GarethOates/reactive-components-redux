@@ -22,5 +22,9 @@
   "bugs": {
     "url": "https://github.com/GarethOates/reactive-components-redux/issues"
   },
-  "homepage": "https://github.com/GarethOates/reactive-components-redux#readme"
+  "homepage": "https://github.com/GarethOates/reactive-components-redux#readme",
+  "dependencies": {
+    "redux": "^3.6.0",
+    "riot": "^3.3.1"
+  }
 }

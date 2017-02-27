@@ -1,0 +1,12 @@
+Notifications.js
+- Querying the DOM for state
+- functions that have multiple responsibilities
+- DOM and service tightly bound
+- code is very easy to introduce bugs into
+- components directly referencing each other
+- component management and update is micromanaged in this controller
+
+Advantages that Redux and reactive components bring
+- Responsibility is completely separated
+- Developers can work in parallel according to a contract
+- Mirrors backend development against APIs
