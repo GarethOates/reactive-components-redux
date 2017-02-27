@@ -26,8 +26,6 @@ function startPoll() {
             showNoNotificationsMessage();
         }
     });
-
-    loadNotifications();
 }
 
 function onBellClick() {

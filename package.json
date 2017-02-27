@@ -1,0 +1,26 @@
+{
+  "name": "redux-live-coding",
+  "version": "1.0.0",
+  "description": "Redux and Reactive Components Demo",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GarethOates/reactive-components-redux.git"
+  },
+  "keywords": [
+    "redux",
+    "reactive",
+    "components",
+    "legacy",
+    "refactor"
+  ],
+  "author": "Gareth Oates (gareth.oates@itslearning.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GarethOates/reactive-components-redux/issues"
+  },
+  "homepage": "https://github.com/GarethOates/reactive-components-redux#readme"
+}
